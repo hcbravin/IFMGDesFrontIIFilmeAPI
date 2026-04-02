@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IFMGDesFrontIIPhotoApi/static/css/main.cf1acebd.css",
+    "main.js": "/IFMGDesFrontIIPhotoApi/static/js/main.d9487ad8.js",
+    "static/js/453.06af891d.chunk.js": "/IFMGDesFrontIIPhotoApi/static/js/453.06af891d.chunk.js",
+    "index.html": "/IFMGDesFrontIIPhotoApi/index.html",
+    "main.cf1acebd.css.map": "/IFMGDesFrontIIPhotoApi/static/css/main.cf1acebd.css.map",
+    "main.d9487ad8.js.map": "/IFMGDesFrontIIPhotoApi/static/js/main.d9487ad8.js.map",
+    "453.06af891d.chunk.js.map": "/IFMGDesFrontIIPhotoApi/static/js/453.06af891d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf1acebd.css",
+    "static/js/main.d9487ad8.js"
+  ]
+}
